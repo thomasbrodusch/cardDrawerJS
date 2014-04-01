@@ -16,8 +16,12 @@ How does it works ?
 > **Tip:**   Make sure you include jQuery, CardDrawerJS & CardDrawerJS .css file into your project to draw some playing card !: 
 
 ```
+<!-- Css -->
+<script type="text/javascript" src="cardDrawerJS/css/cardDrawer.css"></script>
+
+<!-- Javascript -->
 <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
-<script type="text/javascript" src="cardDrawerJS/jQuery.cardDrawer.js"></script>
+<script type="text/javascript" src="cardDrawerJS/js/jQuery.cardDrawer.js"></script>
 ```
 ----------
 
