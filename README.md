@@ -1,7 +1,7 @@
 CardDrawerJS
 =====================
 A jQuery plugin who draw a playing card using jQuery, CSS & Love !
-![alt tag](https://raw.github.com/tom4dev/cardDrawerJS/exemple/demo.png)
+![alt tag](https://raw.githubusercontent.com/tom4dev/cardDrawerJS/master/exemple/demo.png)
 
 author: Thomas Brodusch
 April 2014.
