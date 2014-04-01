@@ -1,0 +1,40 @@
+/*	CardDrawerJS - cardDrawer.css
+*	author: Thomas Brodusch;
+*	April 2014.
+*	<3 flat design.
+*/
+
+div[card-drawer="card"].drawed{
+	float:left;
+	margin-right:10px; 
+	background-color: white;
+	height: 130px;
+	width: 106px;
+	border: 3px solid;
+	border-bottom: 35px solid;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+div[card-drawer="card"].drawed h1#number{
+	font-family: Helvetica !important;
+	letter-spacing: -20px;
+	margin: 23px 0px 0px -9px;
+	float: left;
+	font-size: 115px;
+}
+
+div[card-drawer="card"].drawed h1#type{
+	float: right;
+	margin: 0px;
+	padding: 2px 4px 0px 0px;
+	font-size: 27px;	
+}
+
+div[card-drawer="card"].drawed.blackcard{
+	color : #2c3e50;
+}
+
+div[card-drawer="card"].drawed.redcard{
+	color : #E01601;
+}
